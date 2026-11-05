@@ -4,8 +4,8 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   m_BuildProfilePlayerSettings: {fileID: 0}
-  serializedVersion: 32
-  productGUID: 00000000000000000000000000000000
+  serializedVersion: 33
+  productGUID: eaeda39e89b2c4254af162ffe29ff1ac
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -923,20 +923,20 @@ PlayerSettings:
   il2cppLTOMode: {}
   il2cppStacktraceInformation: {}
   managedStrippingLevel:
-    Android: 1
-    Bratwurst: 1
-    EmbeddedLinux: 1
-    GameCoreScarlett: 1
-    GameCoreXboxOne: 1
-    Nintendo Switch: 1
-    PS4: 1
-    PS5: 1
-    QNX: 1
-    WebGL: 1
-    Windows Store Apps: 1
-    XboxOne: 1
-    iPhone: 1
-    tvOS: 1
+    Android: 4
+    Bratwurst: 4
+    EmbeddedLinux: 4
+    GameCoreScarlett: 4
+    GameCoreXboxOne: 4
+    Nintendo Switch: 4
+    PS4: 4
+    PS5: 4
+    QNX: 4
+    WebGL: 4
+    Windows Store Apps: 4
+    XboxOne: 4
+    iPhone: 4
+    tvOS: 4
   incrementalIl2cppBuild: {}
   suppressCommonWarnings: 1
   allowUnsafeCode: 1
